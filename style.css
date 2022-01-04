@@ -51,8 +51,8 @@ h1 {
   margin-left: 5%;
   margin-right: 5%;
   padding-left: 10px;
-  border-radius: 5% 5% 5% 0%;
-  box-shadow: 10px 10px 10px black;
+  border-radius: 0% 5% 5% 0%;
+  box-shadow: 5px 5px 5px black;
 }
 .shawkys {
   background-image: url(images/exp-bg.png);
@@ -65,6 +65,10 @@ h1 {
   border-image-slice: 1;
 }
 #mh {
+  border-image: black;
   border-left: 7px solid;
-  border-color: black;
+  border-image-slice: 1;
+}
+footer {
+  text-align: center;
 }
