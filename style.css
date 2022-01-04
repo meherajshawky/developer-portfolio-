@@ -46,3 +46,25 @@ h1 {
   background-repeat: no-repeat;
   background-size: 10%;
 }
+.yellow {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 10px;
+  border-radius: 5% 5% 5% 0%;
+  box-shadow: 10px 10px 10px black;
+}
+.shawkys {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-size: 5%;
+}
+#sh {
+  border-image: linear-gradient(blue, cyan);
+  border-left: 7px solid;
+  border-image-slice: 1;
+}
+#mh {
+  border-left: 7px solid;
+  border-color: black;
+}
