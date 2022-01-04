@@ -31,3 +31,10 @@ section {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
+.nd {
+  width: 50%;
+  padding: 5%;
+}
+.nd img {
+  width: 90%;
+}
